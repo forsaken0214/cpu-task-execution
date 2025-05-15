@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\atest\atest\bin\Debug\netcoreapp3.1\atest.exe
+C:\Users\Administrator\source\repos\atest\atest\bin\Debug\netcoreapp3.1\atest.deps.json
+C:\Users\Administrator\source\repos\atest\atest\bin\Debug\netcoreapp3.1\atest.runtimeconfig.json
+C:\Users\Administrator\source\repos\atest\atest\bin\Debug\netcoreapp3.1\atest.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\atest\atest\bin\Debug\netcoreapp3.1\atest.dll
+C:\Users\Administrator\source\repos\atest\atest\bin\Debug\netcoreapp3.1\atest.pdb
+C:\Users\Administrator\source\repos\atest\atest\obj\Debug\netcoreapp3.1\atest.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\atest\atest\obj\Debug\netcoreapp3.1\atest.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\atest\atest\obj\Debug\netcoreapp3.1\atest.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\atest\atest\obj\Debug\netcoreapp3.1\atest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\atest\atest\obj\Debug\netcoreapp3.1\atest.dll
+C:\Users\Administrator\source\repos\atest\atest\obj\Debug\netcoreapp3.1\atest.pdb
+C:\Users\Administrator\source\repos\atest\atest\obj\Debug\netcoreapp3.1\atest.genruntimeconfig.cache
