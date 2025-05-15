@@ -1,0 +1,7 @@
+﻿  test.cpp
+C:\Users\Administrator\source\repos\CpuAndMrmory\CpuAndMrmory\test.cpp(64,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Compiler switch has changed, fall back to full compilation.
+  正在生成代码
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  CpuAndMrmory.vcxproj -> C:\Users\Administrator\source\repos\CpuAndMrmory\Release\CpuAndMrmory.exe

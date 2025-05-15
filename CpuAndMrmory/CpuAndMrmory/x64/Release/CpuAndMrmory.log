@@ -1,0 +1,4 @@
+﻿  test.cpp
+test.obj : error LNK2001: 无法解析的外部符号 __imp_pthread_exit
+test.obj : error LNK2001: 无法解析的外部符号 __imp_pthread_create
+C:\Users\Administrator\source\repos\CpuAndMrmory\x64\Release\CpuAndMrmory.exe : fatal error LNK1120: 2 个无法解析的外部命令
